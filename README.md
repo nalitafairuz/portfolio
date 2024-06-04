@@ -1,4 +1,8 @@
 # Portfolio
+Hi, my name is Nalita! <br /><br />
+I am a Computer Science fresh graduate specialising in Data Science and Artificial Intelligence. Previously, I was a Cloud Engineer Trainee at Cloud Kinetics here in Kuala Lumpur. In this role, I focused on gaining experience in AWS services and cloud migration projects.<br /><br />
+The projects I am proud to share with you are Data Science related, in which I formed business questions, preprocessed data, conducted exploratory data analysis, and leveraged machine learning algorithms to make meaningful predictions. As an aspiring data scientist, I have also done presentations on my work to technical and non-technical audiences using impactful visualisations. <br /><br />
+With my passion for leveraging the power of data and AI, I am eager to join a leading tech company to drive innovation and make a meaningful impact. Don't hesitate to contact me at nalitafairuz@gmail.com. Let's chat!
 
 ## Technical Skills
 - Python, R, Java, Tableau, SQL,  AWS, HashiCorp Terraform, Pandas, Numpy, Scikit-Learn, Excel
