@@ -12,11 +12,6 @@ Taylor’s University, Malaysia | [transcript](https://drive.google.com/file/d/1
 - Relevant Courses: Object Oriented Programming, Software Engineering, Database Systems, Data Analysis & Machine Learning, Statistical Inference & Modeling
 - Co-curricular Activities: Senior Executive of People Management in AIESEC (2022), Junior Executive of Global Talent in AIESEC (2021)
 
-### Cambridge A-Levels, Results: A*A*A*A
-Taylor's College, Malaysia 
-- Subjects: Mathematics, Economics, Business Studies, English Literature
-- Awards: Top Achiever Award, Disctinction Award (partial scholarship)
-
 ## Work Experience
 ### Cloud Engineer Trainee 
 Cloud Kinetics, Kuala Lumpur
@@ -26,3 +21,10 @@ Cloud Kinetics, Kuala Lumpur
 - Conducted three tutorials on AWS Systems Manager and Amazon CloudWatch, upskilling eight stakeholders and improving AWS proficiency.
 - Utilised AWS Application Discovery Service to analyze nine servers and three applications, constructing a migration wave plan.
 - Executed rehost and replatform migration of five servers to AWS using Application MigrationService and Auto-Scaling Groups.
+
+# Projects
+##  Prediction of Fetal State using Classification Machine Learning
+- Optimised a machine learning method to predict the classification of fetal state as normal, suspect, or pathological, based on cardiotocography (CTG) data. 
+- Demonstrated EDA to discover missing data, outliers, duplicates, distribution of numerical data, the correlation between attributes, and representation of class labels in the dataset.
+- Refined data pre-processing methods and fine-tuned SVM and ANN models to successfully achieve a 99% F1-Score using an oversampled dataset and early stopping on the ANN model.
+
